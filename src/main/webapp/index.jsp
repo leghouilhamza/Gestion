@@ -17,7 +17,7 @@
   
 <body>
 	
-<header id="header"><p>@Devops@ Hamza Leghouil | LPI...</p></header>
+<header id="header"><p>@Devops@ Hamza Leghouil ...</p></header>
 	</br></br>
 
   <center> 
